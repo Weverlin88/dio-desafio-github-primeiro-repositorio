@@ -1,0 +1,165 @@
+Principais comandos
+git-add[1]
+Adicione o conteúdo do arquivo ao índice
+
+git-am[1]
+Aplicar uma série de patches de uma caixa de correio
+
+git-archive[1]
+Crie um arquivo de arquivos de uma árvore nomeada
+
+git-bisect[1]
+Use a pesquisa binária para encontrar o commit que introduziu um bug
+
+git-branch[1]
+Listar, criar ou excluir ramificações
+
+git-bundle[1]
+Mover objetos e referências por arquivo
+
+git-checkout[1]
+Alterne ramificações ou restaure os arquivos da árvore de trabalho
+
+git-cherry-pick[1]
+Aplique as alterações introduzidas por alguns commits existentes
+
+git-citool[1]
+Alternativa gráfica ao git-commit
+
+git-clean[1]
+Remover arquivos não rastreados da árvore de trabalho
+
+git-clone[1]
+Clone um repositório em um novo diretório
+
+git-commit[1]
+Registrar alterações no repositório
+
+git-describe[1]
+Dê a um objeto um nome legível por humanos com base em uma referência disponível
+
+git-diff[1]
+Mostrar alterações entre commits, commit e árvore de trabalho, etc.
+
+git-fetch[1]
+Baixar objetos e referências de outro repositório
+
+git-format-patch[1]
+Preparar patches para envio por e-mail
+
+git-gc[1]
+Limpe arquivos desnecessários e otimize o repositório local
+
+git-grep[1]
+Imprimir linhas que correspondem a um padrão
+
+git-gui[1]
+Uma interface gráfica portátil para Git
+
+git-init[1]
+Crie um repositório Git vazio ou reinicialize um existente
+
+git-log[1]
+Mostrar logs de confirmação
+
+git-maintenance[1]
+Execute tarefas para otimizar os dados do repositório Git
+
+git-merge[1]
+Junte dois ou mais históricos de desenvolvimento
+
+git-mv[1]
+Mover ou renomear um arquivo, um diretório ou um link simbólico
+
+git-notes[1]
+Adicionar ou inspecionar notas de objetos
+
+git-pull[1]
+Busque e integre com outro repositório ou uma ramificação local
+
+git-push[1]
+Atualizar referências remotas junto com objetos associados
+
+git-range-diff[1]
+Compare dois intervalos de confirmação (por exemplo, duas versões de uma ramificação)
+
+git-rebase[1]
+Reaplicar commits em cima de outra dica básica
+
+git-reset[1]
+Redefina o HEAD atual para o estado especificado
+
+git-restore[1]
+Restaurar arquivos da árvore de trabalho
+
+git-revert[1]
+Reverter alguns commits existentes
+
+git-rm[1]
+Remover arquivos da árvore de trabalho e do índice
+
+git-shortlog[1]
+Resumir a saída do log do git
+
+git-show[1]
+Mostrar vários tipos de objetos
+
+git-sparse-checkout[1]
+Reduza sua árvore de trabalho a um subconjunto de arquivos rastreados
+
+git-stash[1]
+Esconda as alterações em um diretório de trabalho sujo
+
+git-status[1]
+Mostrar o status da árvore de trabalho
+
+git-submodule[1]
+Inicialize, atualize ou inspecione submódulos
+
+git-switch[1]
+Mudar de ramo
+
+git-tag[1]
+Crie, liste, exclua ou verifique um objeto de tag assinado com GPG
+
+git-worktree[1]
+Gerencie várias árvores de trabalho
+
+gitk[1]
+O navegador do repositório Git
+
+Comandos Auxiliares
+Manipuladores:
+
+git-config[1]
+Obtenha e defina o repositório ou as opções globais
+
+git-fast-export[1]
+Exportador de dados Git
+
+git-fast-import[1]
+Backend para importadores de dados Git rápidos
+
+git-filter-branch[1]
+Reescrever ramificações
+
+git-mergetool[1]
+Execute ferramentas de resolução de conflitos de mesclagem para resolver conflitos de mesclagem
+
+git-pack-refs[1]
+Cabeçalhos e tags do pacote para acesso eficiente ao repositório
+
+git-prune[1]
+Remova todos os objetos inacessíveis do banco de dados de objetos
+
+git-reflog[1]
+Gerenciar informações de reflog
+
+git-remote[1]
+Gerenciar conjunto de repositórios rastreados
+
+git-repack[1]
+Empacotar objetos descompactados em um repositório
+
+git-replace[1]
+Crie, liste, exclua refs para substituir objetos
